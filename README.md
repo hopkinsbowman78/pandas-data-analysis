@@ -13,7 +13,8 @@ To tackle this challenge I...
 2. Brainstormed possible structures needed to accomplish the goals of the challenge.
 3. Looked back at Bootcamp class activites to find code to accomplish processes.
 4. Researched the resources listed below to find additional, or more elegant, code.
-5. Cleaned, commented and tested scripts.
+5. Cleaned and tested scripts.
+6. Used observations to create analysis. 
    
 
 
