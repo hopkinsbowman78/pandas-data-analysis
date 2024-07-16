@@ -36,8 +36,7 @@ To tackle this challenge I...
 ## Table of Contents
 
 #### PyCitySchools                     
-+ PyCitySchools.ipynb
-+ PyCitySchools_analysis.txt
++ PyCitySchools.ipynb (Includes code and written analysis)
 + Resources Folder (schools_complete.csv, students_complete.csv)
 
 #### ReadMe
