@@ -21,6 +21,8 @@ To tackle this challenge I...
 ## Resources
 
    
++ Pandas Documentation (https://pandas.pydata.org/docs/index.html)
+
 + Xpert Learning Assistant
 
 + ChatGPT
