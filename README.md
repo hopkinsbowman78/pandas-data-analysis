@@ -42,4 +42,6 @@ To tackle this challenge I...
 + PyCitySchools.ipynb (Includes code and written analysis)
 + Resources Folder (schools_complete.csv, students_complete.csv)
 
+#### Module 4 Pandas Challenge (Original Challenge Requirements)
+
 #### ReadMe
